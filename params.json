@@ -1,0 +1,6 @@
+{
+  "name": "Yeezy Copper",
+  "tagline": "This tool lets you purchase Adidas shoes efficiently, and saves you time.",
+  "body": "<p align=\"center\">\r\n  <br />\r\n  <img src=\"https://raw.githubusercontent.com/aklingspor/yeezy-copper/master/yeezy-cop.gif\" />\r\n</p>\r\n\r\n\r\n## Notes:\r\n\r\n* Assumes you're logged into the Adidas store already.\r\n* Probably most fuccboi code on GitHub. I am not liable for anything you cop using this and I wouldnt use it unless you understand what its doing.\r\n* Don't keep this running (Especially since it will auto cop on page load). Delete this garbage as soon as you cop.\r\n* jQuery spaghetti chrome extensions are so fun to make. see also [twitter-classic](https://github.com/artnotfound/twitter-classic)\r\n* T.L.O.P. the greatest album of life\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
